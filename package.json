@@ -1,0 +1,26 @@
+{
+  "name": "algo-practice",
+  "version": "1.0.0",
+  "description": "Algo Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianpham97/Algo-Practice.git"
+  },
+  "author": "Brian Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianpham97/Algo-Practice/issues"
+  },
+  "homepage": "https://github.com/brianpham97/Algo-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "@types/jest": "^29.2.4",
+    "axios": "^1.2.1"
+  }
+}
